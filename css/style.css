@@ -180,6 +180,12 @@ body{
     padding: 0 !important;
      color: rgb(255, 196, 0) !important;
 }
+.bhari{
+    border-style:none !important;
+    padding: 0 !important;
+    margin-right:40px !important;
+     color: white !important;
+}
 
 h3.heading{
     font-size: 1.9rem;
